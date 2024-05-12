@@ -1,6 +1,6 @@
 ﻿/*
-        סתיו מכרי 324084722 Stav Macri
-        נדב שורץ 208296400 Nadav Swartz
+        Stav Macri 324084722 - סתיו מכרי
+        Nadav Swartz 208296400 - נדב שוורץ
 */
 
 #include <stdio.h>
